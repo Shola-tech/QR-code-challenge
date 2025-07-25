@@ -1,35 +1,40 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). This challenge helped me improve my basic HTML and CSS layout skills by creating a responsive QR code component card.
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
+This challenge helped me improve my basic HTML and CSS layout skills by creating a responsive QR code card component.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+---
+
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![Mobile view](./272b38b9-a512-4469-b527-420aebf851f5.png)
 ![Desktop view](./e92341c7-ce70-475a-bb98-88da03763d71.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://www.frontendmentor.io/solutions/your-solution-link)
-- Live Site URL: [Live Demo](https://your-deployment-link.com)
+- 🔗 **Solution URL**: [Submit and paste your solution link here](https://www.frontendmentor.io/solutions/your-solution-link)
+- 🔴 **Live Site URL**: [https://shola-qr-code-component.netlify.app/](https://shola-qr-code-component.netlify.app/)
 
-## My process
+---
 
-### Built with
+## My Process
+
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -37,7 +42,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Mobile-first workflow
 - Google Fonts – [Outfit](https://fonts.google.com/specimen/Outfit)
 
-### What I learned
+---
+
+### What I Learned
 
 This project helped reinforce my understanding of:
 
@@ -49,35 +56,3 @@ body {
   align-items: center;
   height: 100vh;
 }
--Centering elements vertically and horizontally using Flexbox.
-
--Styling components with consistent spacing, border-radius, and color themes.
-
--Using media queries to ensure responsiveness on mobile devices.
-
-
-### Continued development
-
-In future projects, I plan to:
-
-Explore more semantic HTML elements for accessibility.
-
-Improve responsive layout techniques using CSS Grid.
-
-Learn to structure my CSS better for larger projects.
-
-
-### Useful resources
-
-MDN Web Docs - Flexbox
-
-Frontend Mentor Slack community – for inspiration and support.
-
-
-### Author
-GitHub - @shola-tech
-
-Frontend Mentor - @shola-tech
-
-### Acknowledgments
-Thanks to the Frontend Mentor community for the challenge and inspiration. Special shoutout to those who have shared their solutions publicly – it really helped in shaping my own learning approach.
